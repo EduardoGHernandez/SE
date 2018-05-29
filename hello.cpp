@@ -1,6 +1,7 @@
 #include <iostream>
 #include "mylib.hpp"
 #include "newlib.hpp"
+#include "otherlib.hpp"
 
 using namespace std;
 
@@ -12,6 +13,7 @@ int  main(){
 	cout << "5 - 10 = " << substraction(5,10) << endl;
 	cout << "5 * 10 = " << multiplication(5,10) << endl;
 	cout << "5 / 10 = " <<  division(5,10) << endl; 
+	message();
 	cout << "Good bye!" << endl;
 	return 0;
 }
