@@ -1,8 +1,8 @@
-#Example for SE
+# Example for SE
 
 29-05-2018
 
-##Overview
+## Overview
 1. What's git?
 2. Basic concepts
 3. Git states
